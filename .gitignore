@@ -1,0 +1,16 @@
+# Dépendances
+rag_cesar/node_modules/
+studyai/node_modules/
+
+# Build Next.js
+rag_cesar/.next/
+
+# Données sensibles
+rag_cesar/.env.local
+studyai/.env.local
+rag_cesar/vectorstore_index/
+rag_cesar/docs_sample/
+
+# Logs
+node_modules/
+.DS_Store
