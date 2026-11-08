@@ -44,7 +44,7 @@ const SUGGESTIONS = [
 
 // ── Fournisseur d'API (change ces 2 lignes pour changer de fournisseur) ──
 const API_URL = 'https://api.groq.com/openai/v1/chat/completions';
-const API_MODEL = 'llama-3.1-8b-instant';
+const API_MODEL = 'openai/gpt-oss-20b';
 // Mistral : 'https://api.mistral.ai/v1/chat/completions' + 'mistral-small-latest'
 
 const SUBJECTS = ['Mathématiques','Physique','Chimie','Biologie','Histoire','Géo','Littérature','Philosophie','Anglais','Informatique','Économie','Droit','Autre'];
